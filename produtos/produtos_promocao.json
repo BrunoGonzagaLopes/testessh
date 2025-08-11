@@ -1,0 +1,76 @@
+{
+  "produtos": [
+    {
+      "nome": "Camiseta Sailor Moon",
+      "descricao":"Vista a magia lunar com essa camiseta icônica da Sailor Moon. Ideal para quem luta pelo amor e pela justiça com muito estilo.",
+      "categoria" : "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Camisas/06929638f42bd633a0d1cb98e16759df.jpg"
+    },
+    {
+      "nome": "Camiseta Naruto Modo Kurama",
+      "descricao":"Libere o poder da Nove-Caudas com essa estampa vibrante do Naruto em seu modo mais lendário.",
+      "categoria" : "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Camisas/0c926824139d3839f0777b67a2ddcb1f.jpg"
+    },
+    {
+      "nome": "Camiseta Dan Da Dan",
+      "descricao":"Misteriosa e cheia de energia, esta camiseta traz à tona o lado excêntrico do universo Dan Da Dan.",
+      "categoria" : "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Camisas/0cc17375bb237a0ba93c9c0d399bc269.jpg"
+    },
+    {
+      "nome": "Caneca Rengoku",
+      "descricao":"Flamejante e honrada, essa caneca traz a força do Pilar do Fogo para seu café da manhã.",
+      "categoria" : "caneca",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Canecas/04ab17d6b683f14c878438073d57134e.jpg"
+    },
+    {
+      "nome": "Caneca Corvinal - Harry Potter",
+      "descricao": "Para os sábios e criativos, a caneca perfeita para mostrar sua casa em Hogwarts.",
+      "categoria" : "caneca",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Canecas/0c62f1f70731efd236fcc23db6931214.jpg"
+    },
+    {
+      "nome": "Caneca Luffy",
+      "descricao":"Tome seu café com o espírito destemido do futuro Rei dos Piratas.",
+      "categoria" : "caneca",
+      "preco_original": 95,
+      "preco_promocional": 85.50,
+      "imagem" :"imgs/Produtos/Canecas/13d571850bba7185d10820b6884f5dc8.jpg"
+    },
+    {
+      "nome": "Moletom com capuz de Shingeki no Kyojin - 100% Algodão",
+      "descricao":"Vista-se como um verdadeiro membro da Tropa de Exploração e enfrente o frio como se fossem Titãs.",
+      "categoria" : "moletom",
+      "preco_original": 120,
+      "preco_promocional": 108.00,
+      "imagem" :"imgs/Produtos/moletons/329dcb8c3a8224175795ebb04b52586b.jpg"
+    },
+    {
+      "nome": "Moletom com capuz da ZeroTwo - 100% Algodão",
+      "descricao":"Seu par perfeito de estilo — esse moletom é tão icônico quanto o código 002.",
+      "categoria" : "moletom",
+      "preco_original": 120,
+      "preco_promocional": 108.00,
+      "imagem" :"imgs/Produtos/moletons/42afca4a714e12a8b3134a85b3b77924.jpg"
+    },
+    {
+      "nome": "Moletom com capuz do Tanjiro - 100% Algodão",
+      "descricao":"Carregue a gentileza e a força de Tanjiro no peito. Estilo e empatia em forma de moletom.",
+      "categoria" : "moletom",
+      "preco_original": 120,
+      "preco_promocional": 108.00,
+      "imagem" :"imgs/Produtos/moletons/8d82ecf57c81c8d8c1cfec818a5ca761.jpg"
+    }
+  ]
+}

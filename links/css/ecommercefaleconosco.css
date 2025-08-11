@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: #8b8b8b;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+header img{
+    width: 200px;
+}
+section{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 27pt;
+}
+main{
+    display: grid;
+    grid-template-columns: 40% auto;
+}
+main figure{
+    text-align: center;
+}
+main figure img{
+width: 65%;
+}
+main form{
+    width: 80%;
+    height: auto;
+    max-height: 65%;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px;
+    border-color: #8b8b8b;
+    padding: 30px;
+}
+main form input, main form textarea{
+    width: 45%;
+    border-radius: 5px;
+    height: 30px;
+    margin: 5px;
+}
+main form textarea{
+
+  width: 200px;
+  border: 2px solid black;
+}
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+ 
+}
+button{
+     background-color: rgb(99, 99, 99);
+    color: #fff1f1;
+    padding: 8px;
+    border-radius: 7px;
+    margin:10px ;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+.block{
+    color: red;
+    border-color: red;
+
+}
+input.block::placeholder, textarea.block::placeholder{
+    color: red;
+}

@@ -1,0 +1,476 @@
+{
+  "produtos": [
+    {
+      "nome": "Camiseta Sailor Moon",
+      "descricao": "Vista a magia lunar com essa camiseta icônica da Sailor Moon. Ideal para quem luta pelo amor e pela justiça com muito estilo.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/06929638f42bd633a0d1cb98e16759df.jpg"
+    },
+    {
+      "nome": "Camiseta Naruto Modo Kurama",
+      "descricao": "Libere o poder da Nove-Caudas com essa estampa vibrante do Naruto em seu modo mais lendário.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/0c926824139d3839f0777b67a2ddcb1f.jpg"
+    },
+    {
+      "nome": "Camiseta Dan Da Dan",
+      "descricao": "Misteriosa e cheia de energia, esta camiseta traz à tona o lado excêntrico do universo Dan Da Dan.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/0cc17375bb237a0ba93c9c0d399bc269.jpg"
+    },
+    {
+      "nome": "Camiseta Meme Senhorita Frieren",
+      "descricao": "A irreverência da Senhorita Frieren agora estampada para quem adora memes e magia.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/0eab5567dddd347ec8c3bd578ea9b9a6.jpg"
+    },
+    {
+      "nome": "Camiseta Sukuna",
+      "descricao": "Para quem carrega o espírito do Rei das Maldições com muito estilo e ousadia.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/1e5c824c5109f7b9022405e076ce53f6.jpg"
+    },
+    {
+      "nome": "Camiseta Sousou no Frieren",
+      "descricao": "Um toque de magia e melancolia no visual, direto do universo fantástico de Sousou no Frieren.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/2a6c19574b7120862f2a2c9f202cd6e9.jpg"
+    },
+    {
+      "nome": "Camiseta One Piece Clássica",
+      "descricao": "Estampe sua paixão pela maior aventura dos mares com estilo pirata raiz!",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/35a926ad31b314f553bcad6aed531cf3.jpg"
+    },
+    {
+      "nome": "Camiseta Okarun e Vovó Turbo",
+      "descricao": "Para os fãs que adoram o sobrenatural com uma pitada de humor acelerado!",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/404fd01e6971f2ffa3c74c528bc901ad.jpg"
+    },
+    {
+      "nome": "Camiseta Fer de Sousou no Frieren",
+      "descricao": "A guerreira enigmática estampada em uma camiseta para os verdadeiros fãs de magia e combate.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/4371296ecb6196b9fa6c9cc06a34e635.jpg"
+    },
+    {
+      "nome": "Camiseta Gojo Satoru",
+      "descricao": "Domine o campo ilimitado com estilo, com a estampa do feiticeiro mais carismático do anime.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/5e6bcf23bf5755724f7cc89accb5d7d1.jpg"
+    },
+    {
+      "nome": "Camiseta Kanao",
+      "descricao": "Suavidade e determinação em um design delicado com a presença serena da Kanao.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/78ec79faba1a0166184a96e0207b9207.jpg"
+    },
+    {
+      "nome": "Camiseta Mitsuri",
+      "descricao": "A Hashira do Amor transbordando charme e força em cada detalhe da estampa.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/8ca216bfc95b0f72d320b60901d03344.jpg"
+    },
+    {
+      "nome": "Camiseta Shingeki no Kyojin Minimalista",
+      "descricao": "Design clean para quem é fã de Attack on Titan e curte o estilo discreto e poderoso.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/985f54fdbec8af468ee1be3a3113e5fe.jpg"
+    },
+    {
+      "nome": "Camiseta Pain",
+      "descricao": "Sinta a dor e o estilo com essa peça inspirada no lendário vilão de Naruto.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/9de550ca557e613ec78b925d5b1cbf3a.jpg"
+    },
+    {
+      "nome": "Camiseta Demon Slayer",
+      "descricao": "Para quem luta contra onis com bravura — um clássico que todo fã deve ter.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/9e5052f77a9b8acfae7a3517726e919e.jpg"
+    },
+    {
+      "nome": "Camiseta Eren - Shingeki no Kyojin",
+      "descricao": "Eren Yeager em sua forma mais rebelde, para quem quer mostrar que é do time da liberdade.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/a5eee55d09aba3def8b5d81125b96e07.jpg"
+    },
+    {
+      "nome": "Camiseta Cavaleiros de Ouro",
+      "descricao": "Queime seu cosmo com essa homenagem aos mais poderosos deuses da armadura dourada!",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/ccef989c6a4e0a275f658efdf32a6d49.jpg"
+    },
+    {
+      "nome": "Camiseta Vovó Turbo Cat",
+      "descricao": "A avó mais insana do universo anime com seu turbo cat para deixar seu visual acelerado.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/cdae36e5561a3719e31fa6f0ce60d08b.jpg"
+    },
+    {
+      "nome": "Camiseta Itachi",
+      "descricao": "A sabedoria e a tristeza de um verdadeiro herói oculto em forma de camiseta.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/d054c93a969da217fe9db4840d770d2d.jpg"
+    },
+    {
+      "nome": "Camiseta Frieren Assassina de Demônios",
+      "descricao": "Para os fãs da elfa mais poderosa que já existiu! Magia e estilo em uma só peça.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/db0a6412f5ff9624714e89b409530152.jpg"
+    },
+    {
+      "nome": "Camiseta Gojo Satoru II",
+      "descricao": "Com o domínio do espaço e o carisma explosivo de Gojo, essa camiseta é puro hype.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/f76bc18e88bf423c44e61c821d7db4dd.jpg"
+    },
+    {
+      "nome": "Camiseta Chapéus de Palha",
+      "descricao": "A tripulação mais amada dos animes reunida numa estampa cheia de espírito pirata.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 85,
+      "imagem": "../../imgs/Produtos/Camisas/fc46868fce420e209218faa27a9f5190.jpg"
+    },
+    {
+      "nome": "Camiseta Dragon Ball",
+      "descricao": "Energia elevada ao máximo com uma estampa nostálgica do universo Dragon Ball.",
+      "categoria": "camisa",
+      "preco_original": 95,
+      "preco_promocional": 75,
+      "imagem": "../../imgs/Produtos/Camisas/5bbe094be98c34fee2942eb57d1a2139.jpg"
+    },
+    {
+      "nome": "Caneca Rengoku",
+      "descricao": "Flamejante e honrada, essa caneca traz a força do Pilar do Fogo para seu café da manhã.",
+      "categoria": "caneca",
+      "preco_original": 95,
+      "preco_promocional": 75,
+      "imagem": "../../imgs/Produtos/Canecas/04ab17d6b683f14c878438073d57134e.jpg"
+    },
+    {
+      "nome": "Caneca Corvinal - Harry Potter",
+      "descricao": "Para os sábios e criativos, a caneca perfeita para mostrar sua casa em Hogwarts.",
+      "categoria": "caneca",
+      "preco_original": 95,
+      "preco_promocional": 75,
+      "imagem": "../../imgs/Produtos/Canecas/0c62f1f70731efd236fcc23db6931214.jpg"
+    },
+    {
+      "nome": "Caneca Luffy",
+      "descricao": "Tome seu café com o espírito destemido do futuro Rei dos Piratas.",
+      "categoria": "caneca",
+      "preco_original": 95,
+      "preco_promocional": 75,
+      "imagem": "../../imgs/Produtos/Canecas/13d571850bba7185d10820b6884f5dc8.jpg"
+    },
+    {
+      "nome": "Caneca Sanemi",
+      "descricao": "Estilo indomável e força bruta para suas manhãs, com o caçador mais explosivo de todos.",
+      "categoria": "caneca",
+      "preco_original": 95,
+      "preco_promocional": 75,
+      "imagem": "../../imgs/Produtos/Canecas/15093a49a9eee2fce2c66d0172735156.jpg"
+    },
+      {
+        "nome": "Stitch, Lufa-Lufa - Porcelana",
+        "descricao": "O alien mais fofo da galáxia se juntou à Lufa-Lufa para deixar seu café mágico!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/16214f8527f41690a6cb22c52e479dd6.jpg"
+      },
+      {
+        "nome": "Zoro, One Piece - Porcelana",
+        "descricao": "Tome seu café com a força do espadachim mais perdido dos mares. Rumo ao Novo Mundo!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/1dc4ae10f6b215e8d75eeba33527d2f4.jpg"
+      },
+      {
+        "nome": "Luffy Nika, One Piece - Porcelana",
+        "descricao": "Com essa caneca, até o Gear 5 vai parecer leve! Acorde com energia de Yonko!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/1ed6930d851b1265aba8126380855c6a.jpg"
+      },
+      {
+        "nome": "Chuck - Porcelana",
+        "descricao": "A risada maligna do boneco mais temido agora cabe na sua prateleira – e no seu café.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/2622c2884f458a67744564ee862c1397.jpg"
+      },
+      {
+        "nome": "Sukuna, Jujutsu Kaisen - Porcelana",
+        "descricao": "O rei das maldições cabe na sua mão! Tome cuidado pra não ser possuído pela cafeína.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/2c635cfdcf21275c3f0a8c0afcb26ed1.jpg"
+      },
+      {
+        "nome": "Sonserina, Harry Potter - Porcelana",
+        "descricao": "Ambição, astúcia e estilo! A caneca perfeita para quem fala com cobras e bebe chá.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/2fc87220202061413285a0ea155c09ba.jpg"
+      },
+      {
+        "nome": "Stitch Corvinal - Porcelana",
+        "descricao": "A inteligência do Corvinal com o caos do Stitch. Combinação perfeita pra sua estante.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/45d6eceec36f7db29ab1368f50da549e.jpg"
+      },
+      {
+        "nome": "Lufa-Lufa, Harry Potter - Porcelana",
+        "descricao": "Se você é leal, paciente e gosta de café quente, essa é sua caneca de estimação!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/50b10b921019d92835d4b73c16a2d0b6.jpg"
+      },
+      {
+        "nome": "Grifinória, Harry Potter - Porcelana",
+        "descricao": "Coragem, bravura e... um cafezinho pra começar o dia como um verdadeiro leão.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/7142eb16a36f3c87e6f0e3068411e135.jpg"
+      },
+      {
+        "nome": "Shinobu, Demon Slayer - Porcelana",
+        "descricao": "Delicada por fora, venenosa por dentro – mas só se você esquecer o açúcar!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/989f08b612bf2063a75277d2077a6c25.jpg"
+      },
+      {
+        "nome": "Sonserina, Harry Potter - Porcelana (Variante)",
+        "descricao": "Uma versão ainda mais sombria e elegante da casa mais polêmica de Hogwarts.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/a7c62e017f72bd2e8e8276d7fdeb788b.jpg"
+      },
+      {
+        "nome": "Quatro casas de Hogwarts, Harry Potter - Porcelana",
+        "descricao": "Impossível escolher uma só? Essa caneca te representa em todas as casas de Hogwarts!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/e450b611da598e63d4b7c18f601e1b79.jpg"
+      },
+      {
+        "nome": "Luffy, One Piece - Porcelana",
+        "descricao": "Pra começar o dia com um soco de energia e aquele sorriso do futuro Rei dos Piratas!",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/e9aa5a07835ba29a58d143f00b399f03.jpg"
+      },
+      {
+        "nome": "Ravenclaw, Harry Potter - Porcelana",
+        "descricao": "Brilhe com sabedoria! Ideal pra aquele chá que te inspira a resolver enigmas mágicos.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/f6831150c930d3cfffb24e2e639c616f.jpg"
+      },
+      {
+        "nome": "Satoro Gojo, Jujutsu Kaisen - Porcelana",
+        "descricao": "Mais estilosa que a técnica de reversão amaldiçoada! Ideal pra quem gosta de café e caos.",
+        "preco_original": 95,
+        "preco_promocional": 75,
+        "categoria": "caneca",
+        "imagem": "../../imgs/Produtos/Canecas/fe3587ce38d97f782a62a07a89559837.jpg"
+      },
+      {
+        "nome": "Moletom com capuz de Shingeki no Kyojin - 100% Algodão",
+        "descricao": "Vista-se como um verdadeiro membro da Tropa de Exploração e enfrente o frio como se fossem Titãs.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/329dcb8c3a8224175795ebb04b52586b.jpg"
+      },
+      {
+        "nome": "Moletom com capuz de Demon Slayer - 100% Algodão",
+        "descricao": "Prepare-se para enfrentar demônios ou o ar-condicionado do escritório com muito estilo.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/33a7869d9d38de466043e3950554bf1e.jpg"
+      },
+      {
+        "nome": "Moletom com capuz da ZeroTwo - 100% Algodão",
+        "descricao": "Seu par perfeito de estilo — esse moletom é tão icônico quanto o código 002.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/42afca4a714e12a8b3134a85b3b77924.jpg"
+      },
+      {
+        "nome": "Moletom sem capuz do Sukuna, Jujutsu Kaisen - 100% Algodão",
+        "descricao": "Poder amaldiçoado com conforto abençoado. Sukuna nunca foi tão usável!",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/4abe8bb0fe5fc45dd4222219e1fde03d.jpg"
+      },
+      {
+        "nome": "Moletom com capuz de Jujutsu Kaisen - 100% Algodão",
+        "descricao": "Não importa o feitiço, você vai lançar moda com esse moletom cheio de energia amaldiçada.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/4cf44e60c033e2a9e746dc6045369e45.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Selamento, Naruto - 100% Algodão",
+        "descricao": "Estilo selado com sucesso. Proteja-se do frio como a Vila da Folha protege seus segredos.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/53f81659a6ccbe9dd2d5029e531360b9.jpg"
+      },
+      {
+        "nome": "Moletom com capuz da Nezuko - 100% Algodão",
+        "descricao": "Adorável e feroz, igual à Nezuko — esse moletom é puro charme demoníaco.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/7a295d10479072871fcfc4eb722e1d39.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Tanjiro - 100% Algodão",
+        "descricao": "Carregue a gentileza e a força de Tanjiro no peito. Estilo e empatia em forma de moletom.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/8d82ecf57c81c8d8c1cfec818a5ca761.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Genjutsu do Itachi - 100% Algodão",
+        "descricao": "Só cuidado: quem olhar direto pode cair num transe fashion eterno.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/9efbece17e3e474a5a8754d81dd88f14.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Luffy forma Nika - 100% Algodão",
+        "descricao": "É praticamente impossível não sorrir com esse moletom. Gear 5 da fofura e do conforto.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/bd2f228a4bd3ba835c5e1304b65dc5f7.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Itachi - 100% Algodão",
+        "descricao": "Estilo sombrio e sofisticado, como o próprio Itachi. Ninja ou não, vai arrasar.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/c192eff1c33640bb608fdd2839eba7e3.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Pikachu - 100% Algodão",
+        "descricao": "Conforto elétrico garantido. Esse moletom é um verdadeiro choque de fofura!",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/c4b3dd21ba9473024be2e9e17c7d186d.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Tanjiro, Demon Slayer",
+        "descricao": "A respiração do estilo: constante e confortável como esse moletom incrível.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/c51df761ec28c83c8efc82c9b283c454.jpg"
+      },
+      {
+        "nome": "Moletom sem capuz do Sukuna - 100% Algodão",
+        "descricao": "Um toque sombrio e amaldiçoado que deixa qualquer look simplesmente letal.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/ca2cda0de8d0a8646ef59b7520f9f3b5.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Zoro, One Piece - 100% Algodão",
+        "descricao": "Mesmo que você se perca no caminho, com esse moletom o estilo é garantido!",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/deadd175f648eedd4c9eadcc9b2d26d1.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Itachi, Naruto",
+        "descricao": "Elegância silenciosa de um verdadeiro prodígio. O drip do clã Uchiha chegou.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/e01a47d861f188000399d33fae29c560.jpg"
+      },
+      {
+        "nome": "Moletom com capuz do Gojo e Geto Chibi com capuz - 100% Algodão",
+        "descricao": "Eles podem ser pequenos, mas o estilo é gigante. Gojo e Geto juntos = combo de fofura e poder.",
+        "preco_original": 120,
+        "preco_promocional": 100,
+        "categoria": "moletom",
+        "imagem": "../../imgs/Produtos/moletons/ffd72bbdbdab434da68c4afb4f4fc5dd.jpg"
+      }
+    ]
+}

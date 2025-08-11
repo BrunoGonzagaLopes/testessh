@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../imgs/Logo/Zodiac-logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="../../links/css/ecommerceendereco.css">
+
+    <title> Finalize sua compra - Zodiac GeekStore </title>
+</head>
+
+<body>
+    <header>
+        <img src="../../imgs/Logo/Zodiac-logo.png" alt="Logo da Zodiac Store" width="100px">
+
+    </header>
+    <section>
+        <h3>SO MAIS UMA ETAPA PARA SEREM SUAS</h3>
+    </section>
+    <main>
+        <figure><img src="../../imgs/Logo/shaka.png"></figure>
+        <form action="agradecimento.html" method="post" name="finalizarcompra">
+            <h3>METODO DE PAGAMENTO: </h3>
+            <div class="methpagamento">
+
+                <input type="radio" name="metpagamento"  class="inputclass" value="Pix"> PIX 
+                <input type="radio" name="metpagamento" class="inputclass" value="Cartao_credito"> CARTÃO DE CREDITO
+                <input type="radio" name="metpagamento"   class="inputclass" value="Cartao_debito"> CARTÃO DE DÉBITO
+                <input type="hidden">
+            </div>
+            <div class="dadospessoais">
+                <input type="text" name="nome_user" id="nome_user" placeholder="NOME COMPLETO" class="inputclass">
+                <input type="number" name="cpf-user" id="cpf-user" placeholder="CPF" class="inputclass">
+                <br>
+                <input type="number" name="numerowpp" id="numerowpp" class="inputclass" placeholder="WHATSAPP">
+                <input type="email" name="email_user" placeholder="EMAIL PRINCIPAL" id="email" class="inputclass">
+                <br>
+            </div>
+            <div class="endereco">
+                <h3>ENDEREÇO</h3>
+                <input type="number" name="cep" id="cep" class="inputclass" placeholder="CEP">
+                <input type="text" name="bairro-user" id="bairro-user" class="inputclass" placeholder="BAIRRO">
+                <br>
+                <input type="text" name="rua-user" id="rua-user" class="inputclass" placeholder="RUA">
+                <input type="number" name="number-user" id="number-user" class="inputclass" placeholder="NÚMERO">
+                <input type="text" name="complemento-user" id="complemento-user"  placeholder="COMPLEMENTO(Opcional)">
+            </div>
+            <button  type="button" onclick="validarform()"> REGISTRAR FEEDBACK</button>
+        </form>
+
+    </main>
+    <script src="../JavaScript/ecommercefaleconosco.js"></script>
+</body>
+
+</html>

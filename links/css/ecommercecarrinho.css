@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: #8b8b8b;
+}
+header{
+    background-color: black;
+    text-align: center;
+}
+header img{
+    width: 200px;
+}
+
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav h3{
+    font-size: 22pt;
+    margin-bottom: 25px;
+}
+nav p{
+    padding: 5px;
+}
+
+.item{
+    margin: 15px;
+    display: grid;
+    grid-template-columns: 30% 30% 20% 20%;
+    align-content: center;
+}
+#caract_item{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    text-align: center;
+}
+#caract_item img{
+ width: 100px;
+ border-radius: 50%;
+}
+#caract_item p{
+    font-weight: bold;
+}
+#tamanhos{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    display: flex;
+   justify-content: center;
+   align-content: center;
+}
+#tamanhos .tamanhoselection{
+    width: 20%;
+    text-align: center;
+    align-content: center;
+}
+#obs{
+    width: 80%;
+    height: 40%;
+    margin: auto auto;
+    border-radius: 8px;
+grid-column-start: 3;
+grid-column-end: 4;
+}
+.valor{
+    text-align: center;
+    align-content: center;
+}
+button{
+    width: 40%;
+    height: 50px;
+    margin: auto 29% ;
+    background-color: transparent;
+    border-color: #b8860b;
+    color: #8b8b8b;
+}
+
+#valuetotal{
+    text-align: center;
+    font-size: 27pt;
+}
+
+
+
+
+
+
+
+
+
+
+/* footer */
+footer {
+    display: grid;
+    grid-template-columns: 25% 20% auto 20% 25%;
+    padding: 25px;
+}
+
+footer span {
+    display: block;
+    text-align: center;
+}
+
+footer li {
+    list-style: none;
+    color: aliceblue;
+    font-size: 11pt;
+}
+
+footer li b {
+    font-size: 15pt;
+    position: relative;
+    bottom: 10px;
+}
+
+footer li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer li a:hover {
+    color: #b8860b;
+}

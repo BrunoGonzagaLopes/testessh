@@ -1,0 +1,374 @@
+* {
+    border: 0;
+    margin: 0;
+    
+}
+html{
+   -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Estilização do cabeçalho */
+header {
+    background-color: black;
+    
+}
+
+header ul {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header ul li {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+
+    i {
+        margin: 20px;
+        color: #b8860b;
+        font-size: 27pt;
+    }
+
+    img {
+        width: 30%;
+    }
+    
+    button{
+        background-color: transparent;
+        cursor: grab;
+        position: fixed;
+        z-index: 999;
+    }
+    span{
+        background-color: black;
+        border-radius: 50%;
+        width:20px;
+        height: 20px;
+        font-size: 8pt;
+        font-weight: 700;
+        text-align: center;
+        align-content: center;
+        position: relative;
+        bottom: 10px;
+        color: aliceblue;
+    }
+}
+
+/* globais  */
+.click {
+    cursor: grab;
+}
+
+.click:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+    position: relative;
+    top: 5px;
+}
+
+/* estilizaçao do chamado  */
+nav {
+
+    text-align: center;
+}
+
+nav h3 {
+    font-size: 27pt;
+    padding: 15px;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+nav h3 span {
+    color: #b8860b;
+}
+
+/* estilizaçao das musicas*/
+.music-menu {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.8s ease-in-out, padding 0.8s ease-in-out;
+    color: rgb(0, 0, 0);
+    border: 3px solid black;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    overflow-x: scroll;
+}
+
+.music-menu.actived {
+    max-height: 150px;
+    padding: 10px;
+
+}
+
+.music-menu ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.music-menu ul li {
+    align-items: center;
+    list-style: none;
+    padding: 5px;
+
+    h4 {
+        text-align: center;
+    }
+}
+
+#button_musicplayer {
+    background-color: transparent;
+}
+
+#musicplayer {
+
+    padding: 8px;
+    font-size: 21pt;
+    border-style: solid;
+    border-width: 0px 3px 3px;
+    border-radius: 0px 0px 10px 10px;
+    position: relative;
+    top: -1px;
+}
+
+/* categorias*/
+section h2 {
+    font-size: 27pt;
+}
+
+section ul {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+section li {
+    list-style: none;
+    padding: 30px;
+}
+
+section li p {
+    padding-top: 10px;
+    font-size: 22pt;
+    color: black;
+    font-weight: bold;
+
+}
+
+.icon_category {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 30px;
+    border-style: solid;
+
+    border-width: 3px;
+    border-radius: 50%;
+    max-height: 40px;
+}
+
+section button {
+    background-color: transparent;
+}
+
+.icon_category img {
+    max-width: 50px;
+}
+
+/* CHAMADAS */
+.slide-show-promo {
+    text-align: center;
+}
+
+.slide-show-promo img {
+    width: 95vw;
+}
+
+/*  main - promoção */
+main h2 {
+    text-align: center;
+    margin-top: 12px;
+    font-size: 27pt;
+}
+
+/* produtos promo */
+/* div contasiner */
+.divprodutos {
+    padding: 0 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    max-width: 100vw;
+    flex-wrap: wrap;
+}
+
+
+
+/* div produto */
+.div-item {
+    text-align: center;
+    width: 230px;
+    margin: 0px 6px;
+    padding: 10px 10px;
+    margin-top: 15px;
+    display: grid;
+    grid-template-rows: auto auto 50px;
+}
+.div-item .texto_produto{
+    margin: 0px auto;
+}
+
+.div-item:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+    border-color: #b8860b;
+    position: relative;
+    top: -10px;
+
+
+}
+
+.div-item img {
+    max-width: 200px;
+    max-height: 210px;
+    border-radius: 15px;
+    margin: 2px auto;
+}
+
+.div-item img:hover {
+    transform: scale3d(1.1, 1.1, 1);
+    transition: ease 0.8s;
+}
+
+.div-item h3 {
+    max-width: 200px;
+    padding-top: 20px;
+
+}
+
+.div-item h4 {
+    max-width: 200px;
+    font-weight: 300;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.div-item s {
+    color: #8b8b8b;
+}
+
+.div-item p {
+    font-weight: 600;
+
+}
+.div-item .bntproduto{
+    width: 100%;
+    text-align: center;
+}
+.div-item button {
+    background-color: black;
+    color: #fff1f1;
+    padding: 8px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    grid-row-start: 3;
+    grid-row-end: 3;
+    width: 60%;
+    margin: 5px auto;
+}
+
+.div-item button:hover {
+    background-color: #b8860b;
+    transform: scale(1.2);
+    transition: transform 0.5s ease;
+
+}
+.div-item.select{
+    transform: scale(1.2);
+    color: #b8860b;
+    margin-bottom:45px ;
+    margin-top: 30px;
+}
+
+/* noticias */
+.noticias {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.noticias h3 {
+    font-size: 32pt;
+}
+
+.noticias h3 {
+    font-size: 27pt;
+}
+
+#noticiadestaque {
+    display: grid;
+    grid-template-columns: 55px auto 55px;
+    align-items: center;
+    justify-items: center;
+    height: 200px;
+    color: black;
+}
+
+#noticiadestaque i {
+    background-color: transparent;
+    color: black;
+    font-size: 27pt;
+
+}
+
+#noticiadestaque h4 {
+    font-size: 22pt;
+}
+
+#noticiadestaque .click {
+    background-color: transparent;
+}
+
+/* rodape */
+
+footer {
+    display: grid;
+    grid-template-columns: 25% 20% auto 20% 25%;
+    background-color: black;
+    padding: 25px;
+}
+
+footer span {
+    display: block;
+    text-align: center;
+}
+
+footer li {
+    list-style: none;
+    color: aliceblue;
+    font-size: 11pt;
+}
+
+footer li b {
+    font-size: 15pt;
+    position: relative;
+    bottom: 10px;
+}
+
+footer li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+footer li a:hover {
+    color: #b8860b;
+}
+#demonstrativocard{
+    display: none;
+}
+#demonstrativocard .color.slide{
+    background-color: #b8860b;
+}
